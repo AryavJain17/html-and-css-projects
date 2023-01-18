@@ -1,0 +1,37 @@
+body{color: #1e306e;}
+a{color: white;
+text-decoration: none;}
+header{background-image: url("https://casper.imgix.net/products_new/2021-Gallery-Images/original/gallery-01-D.jpg?auto=compress,format&q=65&w=1200");
+background-color: orangered;
+text-align: center;
+height: 450px;}
+.logo{width: 150px;
+    height: 40px;
+display: block;
+margin-left: auto;
+margin-right: auto;}
+p.top-liner{font-size: 15px;
+color: black;
+font-weight: bold;}
+header a.main-button{margin-top: 80px;
+    padding: 15px;
+    background-color: black;
+}
+header p.footer-text{padding: 150px;
+    color: black;
+    font-weight: bold
+}
+.headline{color: black}
+.testimonials{text-align: center;}
+.review{display: inline-block;
+width: 350px;
+height: 250px;}
+footer{background-color: darkslategrey;
+color: white;
+clear: both;
+text-align: center;
+padding: 15px;}
+
+
+
+
